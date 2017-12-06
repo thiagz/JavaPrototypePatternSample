@@ -11,6 +11,10 @@ Java APIs that use Prototype Design Pattern are
 -----------------------------------------
 java.lang.Object#clone() (the class has to implement java.lang.Cloneable)  
 
+Type
+-----  
+Creational Pattern   
+
 Author
 ------
 Thiagu Subbiah  
